@@ -28,8 +28,8 @@ Né de ma propre expérience de trading indépendant sur les cryptomonnaies (201
 ## Installation
 
 ```bash
-git clone https://github.com/OphisLuka/journal-trading-crypto.git
-cd journal-trading-crypto
+git clone https://github.com/OphisLuka/journal-trading.git
+cd journal-trading
 pip install -r requirements.txt
 ```
 
