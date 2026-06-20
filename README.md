@@ -23,7 +23,17 @@ Né de ma propre expérience de trading indépendant sur les cryptomonnaies (201
 
 ## Aperçu
 
-*(à ajouter : capture d'écran du tableau de bord)*
+**Tableau de bord** — métriques de performance et évolution du capital cumulé
+
+![Tableau de bord](screenshots/tableau-de-bord.png)
+
+**Détection de biais comportementaux** — alertes basées sur des tests statistiques
+
+![Détection de biais](screenshots/detection-biais.png)
+
+**Historique complet des trades**
+
+![Historique des trades](screenshots/historique-trades.png)
 
 ## Installation
 
