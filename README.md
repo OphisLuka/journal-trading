@@ -6,8 +6,6 @@ Application web (Streamlit) permettant d'enregistrer son propre historique de tr
 
 Les plateformes d'échange comme Binance fournissent des statistiques de performance (gains, pertes, historique), mais aucune ne propose d'analyse de **comportement** : à quel moment tradez-vous le moins bien, et pourquoi ? Ce projet comble ce manque avec une approche simple et transparente, basée sur des tests statistiques plutôt que sur une boîte noire.
 
-Né de ma propre expérience de trading indépendant sur les cryptomonnaies (2018–2025), ce projet applique une démarche de data science à un sujet que je connais de l'intérieur.
-
 ## Fonctionnalités
 
 - **Saisie manuelle** des trades via un formulaire (date, crypto, direction, prix d'entrée/sortie, taille de position)
