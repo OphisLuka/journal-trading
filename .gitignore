@@ -1,11 +1,6 @@
-# Données personnelles (ne pas publier ton historique de trades réel)
 historique_trades.csv
-
-# Fichiers Python
 __pycache__/
 *.pyc
 .DS_Store
-
-# Environnement virtuel (si tu en crées un plus tard)
 venv/
 env/
