@@ -74,4 +74,4 @@ Avec moins de 15 trades enregistrés, les résultats restent peu fiables statist
 
 ## Auteur
 
-[OphisLuka](https://github.com/OphisLuka) — en formation Ingénieur IA (OpenClassrooms), précédemment trader indépendant sur les marchés cryptomonnaies.
+[OphisLuka](https://github.com/OphisLuka)
